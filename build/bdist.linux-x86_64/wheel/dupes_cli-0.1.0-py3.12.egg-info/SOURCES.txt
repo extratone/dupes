@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+dupes.1
+setup.py
+dupes/__init__.py
+dupes/main.py
+dupes_cli.egg-info/PKG-INFO
+dupes_cli.egg-info/SOURCES.txt
+dupes_cli.egg-info/dependency_links.txt
+dupes_cli.egg-info/entry_points.txt
+dupes_cli.egg-info/top_level.txt

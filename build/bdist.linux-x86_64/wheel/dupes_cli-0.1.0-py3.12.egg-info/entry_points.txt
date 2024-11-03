@@ -1,0 +1,2 @@
+[console_scripts]
+dupes = dupes.main:main

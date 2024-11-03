@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: dupes-cli
+Version: 0.1.0
+Summary: A CLI tool to find and manage duplicate files
+Home-page: https://github.com/extratone/dupes
+Author: David Blue
+Author-email: davidblue@extratone.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# dupes
+A command line application to search for and eliminate duplicate files.
+
+## man
+
+```
+.TH DUPES 1 "11-03-2024" "dupes 0.1.0"
+.SH NAME
+dupes \- Find and delete duplicate files
+.SH SYNOPSIS
+dupes [OPTIONS]
+.SH DESCRIPTION
+dupes is a command-line tool that recursively searches the current
+directory for duplicate files and offers to delete them.
+.SH OPTIONS
+.TP
+\fB--show-all\fR
+Show all duplicates in a single response.
+.TP
+\fB--created\fR
+Offer to delete only the latest created files.
+.SH AUTHOR
+David Blue <davidblue@extratone.com.com>
+```
