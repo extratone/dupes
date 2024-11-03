@@ -1,0 +1,8 @@
+README.md
+dupes.1
+setup.py
+dupes.egg-info/PKG-INFO
+dupes.egg-info/SOURCES.txt
+dupes.egg-info/dependency_links.txt
+dupes.egg-info/entry_points.txt
+dupes.egg-info/top_level.txt
